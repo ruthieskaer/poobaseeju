@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://gahveemaev.snail-hh.com/sitemap.xml
